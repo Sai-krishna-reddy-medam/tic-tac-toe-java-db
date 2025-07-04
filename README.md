@@ -19,15 +19,4 @@ Java-based GUI Tic Tac Toe game with:
 - MySQL
 
 
-## STRUCTURE 
-TicTacToeGame/
-├── src/
-│   └── com/tictactoe/app/
-│       ├── GameGUI.java
-│       ├── DBHandler.java
-│       └── (other Java files)
-├── config.properties        ← ✅ your DB credentials (this will be hidden)
-├── schema.sql               ← 💾 your MySQL setup
-├── .gitignore               ← 🛡️ hides sensitive files
-├── README.md                ← 📘 instructions file
 
