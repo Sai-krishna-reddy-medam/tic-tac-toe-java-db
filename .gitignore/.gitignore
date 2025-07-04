@@ -1,0 +1,14 @@
+# Compiled class files
+*.class
+
+# IDE and build system files
+*.iml
+.idea/
+*.log
+*.jar
+bin/
+out/
+
+# OS junk
+.DS_Store
+Thumbs.db

@@ -1,0 +1,30 @@
+# Java build files
+*.class
+*.jar
+*.war
+
+# IDE project files (Eclipse, IntelliJ, NetBeans)
+*.iml
+*.ipr
+*.iws
+.idea/
+*.classpath
+*.project
+*.settings/
+nbproject/
+
+# Output folders
+bin/
+out/
+build/
+
+# Logs and error reports
+*.log
+hs_err_pid*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Config files (optional: for database credentials)
+config.properties
